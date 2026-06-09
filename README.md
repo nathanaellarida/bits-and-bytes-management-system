@@ -77,18 +77,6 @@ BMS/                        # Main application package
 
 ---
 
-## Screenshots
-
-> _Coming soon_
-
----
-
-## Authors
-
-Developed by the **Bits & Bytes** team.
-
----
-
 ## License
 
 This project is for educational purposes.
