@@ -116,7 +116,7 @@ public class ContactFrame extends JFrame {
         overallPanel.add(emailPanel, JLayeredPane.PALETTE_LAYER);
 
         //Email Info
-        JLabel emailInfo = new JLabel("ccsbitsandbytesofficial@gmail.com");
+        JLabel emailInfo = new JLabel("[REDACTED_EMAIL]");
         emailInfo.setFont(new Font("Century Gothic", Font.PLAIN, 20));
         emailInfo.setForeground(new Color(0x888888));
         emailInfo.setVisible(true);
@@ -178,7 +178,7 @@ public class ContactFrame extends JFrame {
         overallPanel.add(phonePanel, JLayeredPane.PALETTE_LAYER);
 
         //Phone Info
-        JLabel phoneInfo = new JLabel("09224289430");
+        JLabel phoneInfo = new JLabel("[REDACTED_PHONE]");
         phoneInfo.setFont(new Font("Century Gothic", Font.PLAIN, 20));
         phoneInfo.setForeground(new Color(0x888888));
         phoneInfo.setVisible(true);

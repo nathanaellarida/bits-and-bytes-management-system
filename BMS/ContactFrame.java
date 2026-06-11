@@ -49,14 +49,14 @@ public class ContactFrame extends JFrame {
         overallPanel.add(aboutlInfoLabel, JLayeredPane.PALETTE_LAYER);
 
         // LineLabel1
-        LineLabel1 = new JLabel("——————————————————");
+        LineLabel1 = new JLabel("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
         LineLabel1.setFont(new Font("Century Gothic", Font.BOLD, 30));
         LineLabel1.setForeground(new Color(0x4800A4));
         LineLabel1.setBounds(440, 55, 800, 30);
         overallPanel.add(LineLabel1, JLayeredPane.PALETTE_LAYER);
 
         // LineLabel2
-        LineLabel2 = new JLabel("——————————————————");
+        LineLabel2 = new JLabel("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
         LineLabel2.setFont(new Font("Century Gothic", Font.BOLD, 30));
         LineLabel2.setForeground(new Color(0x4800A4));
         LineLabel2.setBounds(440, 480, 800, 30);
@@ -118,7 +118,7 @@ public class ContactFrame extends JFrame {
         overallPanel.add(emailPanel, JLayeredPane.PALETTE_LAYER);
 
         //Email Info
-        JLabel emailInfo = new JLabel("ccsbitsandbytesofficial@gmail.com");
+        JLabel emailInfo = new JLabel("[REDACTED_EMAIL]");
         emailInfo.setFont(new Font("Century Gothic", Font.PLAIN, 20));
         emailInfo.setForeground(new Color(0x888888));
         emailInfo.setVisible(true);
@@ -180,7 +180,7 @@ public class ContactFrame extends JFrame {
         overallPanel.add(phonePanel, JLayeredPane.PALETTE_LAYER);
 
         //Phone Info
-        JLabel phoneInfo = new JLabel("09224289430");
+        JLabel phoneInfo = new JLabel("[REDACTED_PHONE]");
         phoneInfo.setFont(new Font("Century Gothic", Font.PLAIN, 20));
         phoneInfo.setForeground(new Color(0x888888));
         phoneInfo.setVisible(true);

@@ -1,8 +1,8 @@
-ID , First Name , Last Name     ,Position    , Password		, Email			,Age	,Phone
-1  , Jhoanne    , Wamsley 	,designer    , ambotNaOuy	,ambot@gmail.com	,18	,213574369
-2  , Virginia   , Wamsley	,designer    , kapoy		,kapoy@gmail.com	,18	,932579280
-3  , Aliah    	, Cabiso	,circulation , duka		,atay@gmail.com		,20	,328569285
-4  , Johana    	, Taboada	,writer      , idontknow	,fatay@gmail.com	,19	,709658388
-5  , Goddess   	, Valduesa	,head writer , katulogonNako	,duka@gmail.com		,19	,935092575
-6  , Lowela    	, Villadolid	,head writer , fuxkyou		,abat@gmail.com		,19	,378505947
-7  , Nathanael  , Larida 	,designer    , fishty		,huhu@gmail.com		,20	,598690434
+ID , First Name , Last Name     ,Position    , Password, Email,Age,Phone
+1  , Jhoanne    , Wamsley ,designer    , [REDACTED],[REDACTED],18,[REDACTED]
+2  , Virginia   , Wamsley,designer    , [REDACTED],[REDACTED],18,[REDACTED]
+3  , Aliah    , Cabiso,circulation , [REDACTED],[REDACTED],20,[REDACTED]
+4  , Johana    , Taboada,writer      , [REDACTED],[REDACTED],19,[REDACTED]
+5  , Goddess   , Valduesa,head writer , [REDACTED],[REDACTED],19,[REDACTED]
+6  , Lowela    , Villadolid,head writer , [REDACTED],[REDACTED],19,[REDACTED]
+7  , Nathanael  , Larida ,designer    , [REDACTED],[REDACTED],20,[REDACTED]
